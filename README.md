@@ -1,6 +1,13 @@
-# Wall-E
+# USF IMaRS Website Redesign
 
-Wall-E is a modern Jekyll template with a magazine-like grid layout on the frontpage, beautiful typography and uncomplicated content. 
+I am toying with the idea of porting our website out of drupal and into jekyll.
+Though I have tried porting over with automated tools with no luck,
+I think that the Wall-E theme is a good starting point that might allow me to
+port things over with less effort than it will take to maintain an aging, undocumented dupal site.
+
+--------------------------------------------------------------------
+
+Wall-E is a modern Jekyll template with a magazine-like grid layout on the frontpage, beautiful typography and uncomplicated content.
 
 <img src="https://github.com/abhn/Wall-E/blob/master/tmp/desktop.png?raw=true">
 
