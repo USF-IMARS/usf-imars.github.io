@@ -14,6 +14,8 @@ From extreme weather to the economy, government, industry, NGOs and universities
 
 To support these needs, the International Ocean Institute-USA, the University of South Florida College of Marine Science, and the City of St. Petersburg co-hosted the Coastal Cities Summit II on May 1-3, 2012. The Summit convened 60+ speakers from leading organizations and agencies in Barbados, Canada, Germany, Guatemala, Mexico, The Netherlands, Spain, Sri Lanka and United States to share new research, best practices and community case studies.View the [program agenda](http://imars.usf.edu/agenda) or click below to see details for tracks.
 
+<a href="http://www.sunshinestatestrategies.com/projects/Coastal_Cities_Summit_Program_2012.pdf"><img align="right" src="http://www.imars.usf.edu/sites/default/files/users/cjreynolds/CCS%20Agenda%20Photo.JPG"  width='10%'></a>
+
 * [Rethinking Tourism: Sustaining Economic Development and the Environment](http://imars.usf.edu/rethinking-tourism)
 * [Insurance, Regulations and Climate Change](http://imars.usf.edu/insurance-presentations)
 * [Effective Transit Planning: Smart Growth, Stakeholders and Vulnerability Assessments](http://imars.usf.edu/transportation-presentations)
@@ -21,6 +23,7 @@ To support these needs, the International Ocean Institute-USA, the University of
 * Creating Value with Public Spaces
 
 Thanks to a **grant from Summit Sponsor, the Royal Kingdom of the Netherlands, many of the presentations are hosted online.** The sessions offer (still) valuable information about innovative programs, policies and best practices that address emerging challenges facing coastal cities. In each track, you will see a list of topics and can link to an entire album, or, to one speaker. Individual presentations are about 30 minutes and panels run 45 to 90 minutes.
+
 
 [Steering Committee](http://imars.usf.edu/partners-sponsors)
 
@@ -37,4 +40,4 @@ University of South Florida  College of Marine Science
 
 140 7th Ave South, St. Petersburg, FL 33701, USA 
 
-carib@usf.edu | cjreynolds@usf.edu
+carib@usf.edu \| cjreynolds@usf.edu
