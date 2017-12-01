@@ -7,6 +7,38 @@ port things over with less effort than it will take to maintain an aging, undocu
 
 --------------------------------------------------------------------
 
+## Editing Workflow
+This is a quick rundown of how to modify a page.
+1. navigate to the page on github. For example: https://github.com/USF-IMARS/usf-imars.github.io/blob/master/coastal-cities-summit.md 
+2. click the pencil icon to edit the page
+3. modify the markdown (or html)
+4. use the "preview" tab to view a rendering of the html
+5. describe & commit your changes using the form at the bottom
+6. done! your changes will automatically be applied to the test website at https://usf-imars.github.io/ 
+
+## Justification
+Jekyll allows users to build pages using [markdown](https://en.wikipedia.org/wiki/Markdown), rather than using the drupal interface.
+
+### Why is markdown better than drupal's WYSIWYG editor?
+Markdown is a markup language designed to maximize human-readability and ease-of-use.
+Drupal uses a "What You See Is What You Get" (WYSIWYG) html editor to produce pages.
+
+1. Markdown syntax is intuitive and easy to learn, arguably just as fast to pick up as the drupal WYSIWYG editor.
+2. Once learned, documents can be created and edited much more efficiently in markdown.
+3. Learning markdown benefits students more than learning to use drupal, because they will likely encounter markdown and github again in their studies.
+
+## Why is github+jekyll better than drupal?
+1. git+github are tools that nearly all programmers will be familiar with. 
+2. exposure to the github workflow benefits students who may need to use github in their later work.
+3. Learning to use github's website will help users connect with USF-IMaRS's other resources on github (issue trackers, project trackers, other code repositories).
+4. Exposure to this website's workflow lowers the barrier of entry if users wish to set up their own blog/website using jekyll in the future.
+5. Edits in github are version-controlled using git, which means that edits can always be undone, and changes can be well documented with commit messages.
+
+--------------------------------------------------------------------
+
+
+# old docs retained from template we forked from
+
 Wall-E is a modern Jekyll template with a magazine-like grid layout on the frontpage, beautiful typography and uncomplicated content.
 
 ## Features
@@ -19,7 +51,6 @@ Wall-E is a modern Jekyll template with a magazine-like grid layout on the front
 - Search box links to Google search by default
 
 ## Usage
-
 Wall-E is fully furnished right out of the box. To use this template on your blog
 - If this is your first Jekyll blog, follow this <a href="https://jekyllrb.com/docs/installation/">helpful guide</a> to set up Jekyll.
 - Run `jekyll serve` and your blog should be live on `http://localhost:4000`. Make changes, test them locally, commit your changes and push to your fork. Your changes should be live in a couple of seconds
