@@ -8,3 +8,8 @@ paginate: 15
 baseurl: /
 plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
+
+collections:
+    members:
+        output: true
+        permalink: /:collection/:name
