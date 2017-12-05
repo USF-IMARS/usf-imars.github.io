@@ -16,6 +16,8 @@ This is a quick rundown of how to modify a page.
 5. describe & commit your changes using the form at the bottom
 6. done! your changes will automatically be applied to the test website at https://usf-imars.github.io/ 
 
+NOTE: new to markdown or want a more feature-full editor? You can also edit these pages using https://prose.io or https://stackedit.io
+
 ## Justification
 Jekyll allows users to build pages using [markdown](https://en.wikipedia.org/wiki/Markdown), rather than using the drupal interface.
 
