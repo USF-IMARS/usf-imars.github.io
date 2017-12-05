@@ -10,6 +10,12 @@ plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
 
 collections:
-    members:
+    alumni:
+        output: true
+        permalink: /:collection/:name
+    staff:
+        output: true
+        permalink: /:collection/:name
+    students:
         output: true
         permalink: /:collection/:name

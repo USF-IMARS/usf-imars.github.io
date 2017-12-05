@@ -99,7 +99,26 @@ Includes main navigation and basic branding.
                         <span class="text">IMaRS Team</span>
                         <i class="dropdown icon"></i>
                         <div class="menu">
-                          <div class="item">TODO: set these with a team-members collection</div>
+                            <!-- these are generated from the members collection -->
+                          <div class="header">Staff</div>
+                              {% for member in site.staff %}
+                              <a class="item"  href="{{member.url}}">{{ member.title }}</a>
+                              {% endfor %}
+                          <div class="divider"></div>
+                          <div class="header">Students</div>
+                              {% for member in site.students %}
+                              <a class="item"  href="{{member.url}}">{{ member.title }}</a>
+                              {% endfor %}
+                          <div class="divider"></div>
+                          <div class="item">
+                            <i class="dropdown icon"></i>
+                            <span class="text">Alumni</span>
+                            <div class="menu">
+                                  {% for member in site.alumni %}
+                                  <a class="item"  href="{{member.url}}">{{ member.title }}</a>
+                                  {% endfor %}
+                              </div>
+                          </div>
                         </div>
                     </div>
                     <a class="item" href="/archive.html"> <!-- TODO: fix link-->

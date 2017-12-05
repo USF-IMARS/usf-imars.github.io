@@ -13,7 +13,7 @@ Senior environmental consultant - White Young Green (2000 - 2004)
 ## Education:
 M.Sc. Environmental Engineering - Queen's University Belfast (1999)
 B.Sc. Enivoronmental Science - University of Limerick, Ireland (1994-1998)
-## Honors: 
+## Honors:
 Awarded the Tampa Bay Parrot Head Fellowship (2012)
 Semi-finalist - UK National Lottery Environmental Project of the Year (2010)
 All Ireland Environmental Project of the Year Award (2009)
