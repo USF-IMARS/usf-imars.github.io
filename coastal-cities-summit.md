@@ -14,7 +14,8 @@ From extreme weather to the economy, government, industry, NGOs and universities
 
 To support these needs, the International Ocean Institute-USA, the University of South Florida College of Marine Science, and the City of St. Petersburg co-hosted the Coastal Cities Summit II on May 1-3, 2012. The Summit convened 60+ speakers from leading organizations and agencies in Barbados, Canada, Germany, Guatemala, Mexico, The Netherlands, Spain, Sri Lanka and United States to share new research, best practices and community case studies.View the [program agenda](http://imars.usf.edu/agenda) or click below to see details for tracks.
 
-<a href="http://www.sunshinestatestrategies.com/projects/Coastal_Cities_Summit_Program_2012.pdf"><img align="right" src="http://www.imars.usf.edu/sites/default/files/users/cjreynolds/CCS%20Agenda%20Photo.JPG"  width='10%'></a>
+[<img src="http://www.imars.usf.edu/sites/default/files/users/cjreynolds/CCS%20Agenda%20Photo.JPG" align="right" alt="Coastal Cities Summit Program 2012" width="30%"/>](http://www.sunshinestatestrategies.com/projects/Coastal_Cities_Summit_Program_2012.pdf)
+
 
 * [Rethinking Tourism: Sustaining Economic Development and the Environment](http://imars.usf.edu/rethinking-tourism)
 * [Insurance, Regulations and Climate Change](http://imars.usf.edu/insurance-presentations)
