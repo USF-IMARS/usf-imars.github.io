@@ -4,7 +4,7 @@
 
 The National Marine Debris Tracking Program identified the top five forms of marine debris as: plastic straws, plastic bottles, plastic bags, metal beverage cans, and balloons. 
 
-![clean comm img 1](clean_comm_img1.jpg)
+![clean comm img 1](/clean_comm_img1.jpg)
 
 Inland littering and insufficient waste management practices are primary causes of marine debris in coastal communities. 
 To increase effective litter prevention and reduction outcomes, the Clean Community-Clean Coast education and outreach campaign created awareness of marine debris impacts through information, hands-on activities and messages that resonated with specific audiences and address context-specific social norms.
@@ -33,9 +33,9 @@ To create awareness and spark dialogue about the connection between litter and m
 
 *Tom Cawthon of the Poynter Institute generously filmed [this video](https://www.youtube.com/watch?v=lECoVx0mNlU) which shows the key steps in the five-day onsite construction process of the Current Collections sculpture.*
 
-![clean community 2 images](clean_comm_img2.jpg)
+![clean community 2 images](/clean_comm_img2.jpg)
 
 
 **Funded by a 2014 NOAA Marine Debris Prevention, Education and Outreach Program Cooperative Agreement Grant**
 
-![CCCC logos](CCCC_spon_logos.jpg)
+![CCCC logos](/CCCC_spon_logos.jpg)
