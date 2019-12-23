@@ -1,3 +1,8 @@
+---
+layout: page
+title: Frank E. Muller-Karger
+---
+
 # Director
 
 ## Positions: 
