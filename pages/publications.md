@@ -6,13 +6,23 @@ Click [here for a list of publications prior to 2013](http://www.imars.usf.edu/u
 
 ## In Press
 
-* Goodwin, K.D, F.E Muller-Karger, A. Djurhuus, L. Zeigler Allen, A.E. Allen, J.P. McCrow, and G. Canonico Hyde. 2018 (In Press). Chapter 35 Molecular Approaches for an Operational Marine Biodiversity Observation Network In: World Seas: An Environmental Evaluation, Vol. III: Ecological Issues and Environmental Impacts. 2nd Edition. Charles Sheppard (editor). (In press)
+* more coming soon
 
-* Merrill, S., Kartez, J., Langbehn, K., Muller Karger F., Reynolds, C., "Who Should Pay for Climate Adaptation?: Public Attitudes and Financing of Flood Protection in Florida" Environmental Values (in press.)
 
-* Muller-Karger, F.A., Y. M. Astor, C.R. Benitez-Nelson, K.N. Buck, K.A. Fanning, L. Lorenzoni, E. Montes, D.T. Rueda-Roa, M.I. Scranton, E. Tappa, G.T. Taylor, R.C. Thunell, L. Troccoli, R. Varela. The scientific legacy of the CARIACO Ocean Time-Series Program. Annual Reviews Marine Science, 11: xxxx, (in Press) to be published in 2019, https://doi.org/10.1146/annurev-marine-010318-095150
+## 2020
+
+* Johns, E.M., Lumpkin, R., Putman, N.F., Smith, R.H., Muller-Karger, F.E., Rueda, D., Hu, C., Wang, M., Brooks, M.T., Gramer, L.J. and Werner, F.E., (2020). The establishment of a pelagic Sargassum population in the tropical Atlantic: biological consequences of a basin-scale long distance dispersal event. Progress in 
+
+## 2019
+
+* Muller-Karger, F.A., Y. M. Astor, C.R. Benitez-Nelson, K.N. Buck, K.A. Fanning, L. Lorenzoni, E. Montes, D.T. Rueda-Roa, M.I. Scranton, E. Tappa, G.T. Taylor, R.C. Thunell, L. Troccoli, R. Varela. (2019) The scientific legacy of the CARIACO Ocean Time-Series Program. Annual Reviews Marine Science, 11: 413-437. https://doi.org/10.1146/annurev-marine-010318-095150:/
+
+* Lorenzoni L, Thunell RC, Benitez-Nelson CR, Montes E, Varela R, Astor YM, Muller-Karger F.  2019.  From land to the ocean: the interplay between allochthonous and autochthonous contribution to particles in nepheloid layers of the Cariaco Basin, Venezuela. JGR Biogeosciences. https://doi.org/10.1029/2019JG005288
+
+* Goodwin, K.D., Muller-Karger, F.E., Djurhuus, A., Allen, L.Z., Allen, A.E., McCrow, J.P. and Hyde, G.C., (2019). chapter 32 - Molecular approaches for an operational marine biodiversity observation network. In World Seas: an Environmental Evaluation (pp. 613-631). Academic Press. https://doi.org/10.1016/B978-0-12-805052-1.00032-2
 
 ## 2018
+* Merrill, S., Kartez, J., Langbehn, K., Muller-Karger, F. and Reynolds, C.J., (2018). Who should pay for climate adaptation? Public attitudes and the financing of flood protection in Florida. Environmental Values, 27(5), pp.535-557.
 
 * Boss Emmanuel, A. Waite, F. Muller-Karger, H. Yamazaki, R. Wanninkhof, H. Sosik, B.Sloyan, A. Richardson, P. Miloslavich, J. Karstensen, G. Grégori, K. Fennel, H. Claustre, M. Cornejo, I. Berman-Frank, S. Batten, S. Acinas. (2018) Beyond chlorophyll fluorescence: The time is right to expand biological measurements in ocean observing programs. Limnology and Oceanography Bulletin, August 2018.
 
