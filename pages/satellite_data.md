@@ -26,4 +26,4 @@
     - [GCOOS](http://imars-webserver-01.marine.usf.edu/gcoos/)
     
 * [FTP Upload](ftp://imars.marine.usf.edu/)
-* [Deprecated Endpoints](pages/deprecated-data-access)
+* [Deprecated Endpoints](deprecated-data-access)
