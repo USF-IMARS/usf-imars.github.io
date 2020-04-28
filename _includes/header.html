@@ -28,112 +28,16 @@ Includes main navigation and basic branding.
                     <a class="item" href="/pages/international_ocean_institute_usa">
                         International Ocean Institute - USA
                     </a>
-                    <div class="ui pointing dropdown link item">
-                        <span class="text">Satellite Images</span>
-                        <i class="dropdown icon"></i>
-                        <div class="menu">
-                          <!-- <div class="header">Sample Menu Header</div> -->
-                          <a class="item" href="http://grafana.marine.usf.edu:3000/dashboard/db/gulf-of-mexico">
-                              Dashboards
-                          </a>
-                          <a class="item" href="http://imars-physalis.marine.usf.edu:8080/erddap/info/index.html?page=1&itemsPerPage=1000">
-                              ERDDAP
-                          </a>
-                          <div class="item">
-                            <i class="dropdown icon"></i>
-                            <span class="text">SeaWIFS</span>
-                            <div class="menu">
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/amaz/years">
-                                    Amazon
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/belize/years">
-                                  Belize
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/cbay/years">
-                                  Chesapeake Bay
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/cuba/years">
-                                  Cuba
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/gcoos/years">
-                                  Gulf of Mexico
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/mriver/years">
-                                  Mississippi River
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/sarg/years">
-                                  Sargasso Sea
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/scar/years">
-                                  South East Carribean
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/seacoos/years">
-                                  South US South East Coast
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/florida/years">
-                                  West Florida Shelf
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/wna/years">
-                                  Western North Atlantic
-                                </a>
-                                <a class="item" href="http://www.imars.usf.edu/products/pass/seawifs/windward/years">
-                                  Windward
-                                </a>
-                            </div>
-                          </div>
-                          <div class="item">
-                              <a href="http://imars-webserver-01.marine.usf.edu/gom/">
-                                  HTTP Download
-                              </a>
-                          </div>
-                          <div class="item">
-                              <a href="/pages/deprecated-data-access">
-                                 Deprecated Endpoints
-                              </a>
-                          </div>
-                        </div>
-                    </div>
-                    <div class="ui pointing dropdown link item">
-                        <span class="text">Projects</span>
-                        <i class="dropdown icon"></i>
-                        <div class="menu">
-                          <div class="item">Cariaco</div>
-                          <div class="item">CRW-DSS</div>
-                          <div class="header">Clean Community</div>
-                          <a class="item" href="/pages/coastal-cities-summit">Coastal Cities Summit</a>
-                          <div class="item">Millennium Corals</div>
-                          <div class="item">Oceanic Atlas</div>
-                          <div class="item">UAS</div>
-                          <div class="item">Education</div>
-                          <div class="item">MBON</div>
-                        </div>
-                    </div>
-                    <div class="ui pointing dropdown link item">
-                        <span class="text">IMaRS Team</span>
-                        <i class="dropdown icon"></i>
-                        <div class="menu">
-                            <!-- these are generated from the members collection -->
-                          <div class="header">Staff</div>
-                              {% for member in site.staff %}
-                              <a class="item"  href="{{member.url}}">{{ member.title }}</a>
-                              {% endfor %}
-                          <div class="divider"></div>
-                          <div class="header">Students</div>
-                              {% for member in site.students %}
-                              <a class="item"  href="{{member.url}}">{{ member.title }}</a>
-                              {% endfor %}
-                          <div class="divider"></div>
-                          <div class="item">
-                            <i class="dropdown icon"></i>
-                            <span class="text">Alumni</span>
-                            <div class="menu">
-                                  {% for member in site.alumni %}
-                                  <a class="item"  href="{{member.url}}">{{ member.title }}</a>
-                                  {% endfor %}
-                              </div>
-                          </div>
-                        </div>
-                    </div>
+                    <a class="item" href="/pages/projects">
+                        Projects
+                    </a>
+                    <a class="item" href="/pages/satellite_data">
+                        Satellite Data
+                    </a>
+                    <a class="item" href="/pages/imars_team">
+                        IMaRS Team
+                    </a>
+                    
                     <div class="right menu">
                         <div id="head-search" class="ui category search item">
                             <div class="ui transparent icon input">
