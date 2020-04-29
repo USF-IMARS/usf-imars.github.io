@@ -10,7 +10,7 @@ layout: default
     <div class="ui divider"></div>
     <div class="ui centered grid stackable">
     <div class="four column row">
-        {% include cariaco_left_nav.md %}
+        {% include_relative cariaco_left_nav.md %}
     </div>
     <div class="twelve wide column">
         {{ content }}
