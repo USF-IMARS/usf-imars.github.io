@@ -14,7 +14,7 @@ layout: default
             using include_relative here for the render markdown side-effect.
             ref: https://stackoverflow.com/a/41966993/1483986
         -->
-        {% include_relative ../../_includes/cariaco_left_nav.md %}
+        {% include_relative ../_includes/cariaco_left_nav.md %}
     </div>
     <div class="twelve wide column">
         {{ content }}
