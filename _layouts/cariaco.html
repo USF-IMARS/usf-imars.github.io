@@ -10,7 +10,12 @@ layout: default
     <div class="ui divider"></div>
     <div class="ui centered grid stackable">
     <div class="four wide column">
-        {% include_relative cariaco_left_nav.md %}
+        <!--
+            using this capture block to include a markdown file
+            ref: https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548
+        -->
+        {% capture my_include %}{% include_relative cariaco_left_nav.md %}{% endcapture %}
+        {{ my_include | markdownify }}
     </div>
     <div class="twelve wide column">
         {{ content }}
