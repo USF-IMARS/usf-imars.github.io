@@ -1,5 +1,5 @@
-* [CARIACO Main Page](http://imars.marine.usf.edu/cariaco)
-* [Program Participants](http://imars.marine.usf.edu/cariaco/participants)
+* [CARIACO Main Page](/pages/cariaco)
+* [Program Participants](pages/cariaco/participants)
 * Study Area
 * Field Program
 * Seasonal Hydrography, Productivity, and Settling Particulate Carbon Flux
