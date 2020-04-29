@@ -1,4 +1,7 @@
-# CARIACO Ocean Time-Series Program
+---
+layout: cariaco
+title: CARIACO Ocean Time-Series Program
+---
 
 **Understanding the Link between the Ocean Surface and the Sinking Flux of Particulate Carbon in the Cariaco Basin**
 
