@@ -11,7 +11,7 @@ layout: default
     <div class="ui centered grid stackable">
     <div class="four column row">
 * [CARIACO Main Page](http://imars.marine.usf.edu/cariaco)
-* Program Participants
+* [Program Participants](http://imars.marine.usf.edu/cariaco/participants)
 * Study Area
 * Field Program
 * Seasonal Hydrography, Productivity, and Settling Particulate Carbon Flux
