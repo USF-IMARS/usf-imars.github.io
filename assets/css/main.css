@@ -126,3 +126,17 @@ main {
 .post-container {
     font-family: "Open Sans", sans-serif;
 }
+
+/* === customizations by Tylar: */
+/* image alignment from https://stackoverflow.com/a/43691462/1483986 */
+
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
