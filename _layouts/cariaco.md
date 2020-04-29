@@ -9,7 +9,7 @@ layout: default
     </center>
     <div class="ui divider"></div>
     <div class="ui centered grid stackable">
-    <div class="four column row">
+    <div class="four wide column">
         {% include_relative cariaco_left_nav.md %}
     </div>
     <div class="twelve wide column">
