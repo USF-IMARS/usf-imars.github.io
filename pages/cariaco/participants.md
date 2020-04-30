@@ -15,7 +15,7 @@ The Remote Sensing and Geospatial Analysis Laboratory (LSR) is part of the Biolo
 
 [ivic logo](http://imars.usf.edu/sites/default/files/project/cariaco/ivic_logo_1.jpg#left)
 
-The Venezuelan Institute for Scientific Research (IVIC), located in Caracas, Venezuela, is one of the largest research centers in the country, specializing in many different disciplines including biology, chemistry, medicine, physics, mathematics, food technology and socio-anthropology.Their objective is to carry out high quality scientific research in those areas which are defined as priority for Venezuela; their mission also includes capacity building. They have a high quality research infrastructure which includes several well equipped laboratories and library resources. 
+The Venezuelan Institute for Scientific Research (IVIC), located in Caracas, Venezuela, is one of the largest research centers in the country, specializing in many different disciplines including biology, chemistry, medicine, physics, mathematics, food technology and socio-anthropology.Their objective is to carry out high quality scientific research in those areas which are defined as priority for Venezuela; their mission also includes capacity building. They have a high quality research infrastructure which includes several well equipped laboratories and library resources.
 
 ## Universidad de Oriente, Núcleo Sucre and Nueva Esparta, Cumana and Margarita, Venezuela
 
@@ -44,67 +44,66 @@ The Department of Geological Sciences at the University of South Carolina is com
 The Marine Sciences Research Center (MSRC) is the State University of New York's center for marine and atmospheric research, education, and public service. The Center focuses on coastal oceanographic processes and atmospheric sciences in a natural and academic setting that offers abundant opportunities for conducting field work and solving real problems in both local and distant locations. The primary focus of the MSRC faculty and students is on fundamental research designed to increase understanding of the processes that characterize the coastal ocean and the atmosphere. The Marine Sciences Research Center is also committed in applying their research to solve problems that result from society's uses and misuses of the environment.
 Other CARIACO Collaborating Institutions
 
-    Arizona State University, USA
-    Ben-Gurion University, Israel
-    Bigelow Labs, USA
-    BIOS, Bermuda
-    Boston University, USA
-    Cal Tech, USA
-    College of Charleston, USA
-    Colorado College, USA
-    CPDI/Fundación Instituto de Ingeniería, Venezuela
-    CSIR Cape Town, South Africa
-    Dalhousie University, Canada
-    Ekerd College, USA
-    ETH Zurich, Zwitzerland
-    GEOMAR, Kiel, Germany
-    INIDEP, Argentina
-    Inst. Oceanográfico-Univ. de Sao Paulo, Brazil
-    Institut fur Ostseeforschung, Germany
-    Intergovernmental Oceanographic Commission
-    Kaiserslautern Tech. Univ., Germany
-    Lamont DEO, Columbia, USA
-    Lawrence Livermore National Lab, USA
-    Louisiana University Lafayette, USA
-    Massachusetts Institute of Technology, USA
-    Marine Hydrophysical Institute, Ukraine
-    MBARI, USA
-    Mount Allison University, USA
-    Nature Conservancy, USA
-    NC State, USA
-    NOAA GFDL, USA
-    Northeastern University, USA
-    Old Dominion University, USA
-    Oregon State University, USA
-    Princeton Univ., USA
-    Skidaway Institute of Oceanography, USA
-    Stockholm University, Sweden
-    Univ. British Columbia, Canada
-    UC Davis, USA
-    UC Riverside, USA
-    UC Santa Cruz, USA
-    Univ. of Georgia, USA
-    Univ.  Granada, Spain
-    Univ. Hawaii, USA
-    Univ. Lille, France
-    Univ. Lisboa, Portugal
-    Univ. Massachussets, Dartmouth, USA
-    Univ. Minnesota Duluth, USA
-    Univ. of Carabobo, Venezuela
-    Univ. of Concepcion, Chile
-    Univ. of Rhode Island, USA
-    Univ. of Zulia, Venezuela
-    Univ. Queensland, Australia
-    Univ. Rochester, USA
-    Univ. Southampton, UK
-    Univ. Southern Denmark, Denmark
-    Univ. Washington, USA
-    Universidad Central de Venezuela, Venezuela
-    Universität Potsdam, Germany
-    University MD College Park, USA
-    University of California, USA
-    University of Georgia, USA
-    University of Louisiana, Lafayette, USA
-    University of Miami, RSMAS, USA
-    Woods Hole Oceanographic Institution, USA
-
+* Arizona State University, USA
+* Ben-Gurion University, Israel
+* Bigelow Labs, USA
+* BIOS, Bermuda
+* Boston University, USA
+* Cal Tech, USA
+* College of Charleston, USA
+* Colorado College, USA
+* CPDI/Fundación Instituto de Ingeniería, Venezuela
+* CSIR Cape Town, South Africa
+* Dalhousie University, Canada
+* Ekerd College, USA
+* ETH Zurich, Zwitzerland
+* GEOMAR, Kiel, Germany
+* INIDEP, Argentina
+* Inst. Oceanográfico-Univ. de Sao Paulo, Brazil
+* Institut fur Ostseeforschung, Germany
+* Intergovernmental Oceanographic Commission
+* Kaiserslautern Tech. Univ., Germany
+* Lamont DEO, Columbia, USA
+* Lawrence Livermore National Lab, USA
+* Louisiana University Lafayette, USA
+* Massachusetts Institute of Technology, USA
+* Marine Hydrophysical Institute, Ukraine
+* MBARI, USA
+* Mount Allison University, USA
+* Nature Conservancy, USA
+* NC State, USA
+* NOAA GFDL, USA
+* Northeastern University, USA
+* Old Dominion University, USA
+* Oregon State University, USA
+* Princeton Univ., USA
+* Skidaway Institute of Oceanography, USA
+* Stockholm University, Sweden
+* Univ. British Columbia, Canada
+* UC Davis, USA
+* UC Riverside, USA
+* UC Santa Cruz, USA
+* Univ. of Georgia, USA
+* Univ.  Granada, Spain
+* Univ. Hawaii, USA
+* Univ. Lille, France
+* Univ. Lisboa, Portugal
+* Univ. Massachussets, Dartmouth, USA
+* Univ. Minnesota Duluth, USA
+* Univ. of Carabobo, Venezuela
+* Univ. of Concepcion, Chile
+* Univ. of Rhode Island, USA
+* Univ. of Zulia, Venezuela
+* Univ. Queensland, Australia
+* Univ. Rochester, USA
+* Univ. Southampton, UK
+* Univ. Southern Denmark, Denmark
+* Univ. Washington, USA
+* Universidad Central de Venezuela, Venezuela
+* Universität Potsdam, Germany
+* University MD College Park, USA
+* University of California, USA
+* University of Georgia, USA
+* University of Louisiana, Lafayette, USA
+* University of Miami, RSMAS, USA
+* Woods Hole Oceanographic Institution, USA
