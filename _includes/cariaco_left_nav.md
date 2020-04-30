@@ -1,7 +1,7 @@
 * [CARIACO Main Page](/pages/cariaco)
 * [Program Participants](/pages/cariaco/participants)
-* Study Area
-* Field Program
+* [Study Area](/pages/cariaco/study_area)
+* [Field Program](/pages/cariaco/field_program)
 * Seasonal Hydrography, Productivity, and Settling Particulate Carbon Flux
 * Implications for Estimates of Flux
 * ~~Cariaco en Español~~
