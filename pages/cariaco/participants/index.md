@@ -18,7 +18,7 @@ The Remote Sensing and Geospatial Analysis Laboratory (LSR) is part of the Biolo
 
 ## Instituto Venezolano de Investigaciones Científicas (IVIC)
 
-[ivic logo](ivic_logo.jpg#left)
+![ivic logo](ivic_logo.jpg#left)
 
 The Venezuelan Institute for Scientific Research (IVIC), located in Caracas, Venezuela, is one of the largest research centers in the country, specializing in many different disciplines including biology, chemistry, medicine, physics, mathematics, food technology and socio-anthropology.Their objective is to carry out high quality scientific research in those areas which are defined as priority for Venezuela; their mission also includes capacity building. They have a high quality research infrastructure which includes several well equipped laboratories and library resources.
 
