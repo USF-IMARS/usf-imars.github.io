@@ -1,3 +1,8 @@
+---
+layout: page
+title: IMaRS Publications
+---
+
 # PUBLICATIONS
 
 ## IMARS Publications 2013 to present
@@ -11,7 +16,7 @@ Click [here for a list of publications prior to 2013](http://www.imars.usf.edu/u
 
 ## 2020
 
-* Johns, E.M., Lumpkin, R., Putman, N.F., Smith, R.H., Muller-Karger, F.E., Rueda, D., Hu, C., Wang, M., Brooks, M.T., Gramer, L.J. and Werner, F.E., (2020). The establishment of a pelagic Sargassum population in the tropical Atlantic: biological consequences of a basin-scale long distance dispersal event. Progress in 
+* Johns, E.M., Lumpkin, R., Putman, N.F., Smith, R.H., Muller-Karger, F.E., Rueda, D., Hu, C., Wang, M., Brooks, M.T., Gramer, L.J. and Werner, F.E., (2020). The establishment of a pelagic Sargassum population in the tropical Atlantic: biological consequences of a basin-scale long distance dispersal event. Progress in
 
 ## 2019
 
@@ -42,7 +47,7 @@ Click [here for a list of publications prior to 2013](http://www.imars.usf.edu/u
 
 * Rueda-Roa D, Ezer T, Muller-Karger F. 2018. Description and mechanisms of the mid-year upwelling in the southern caribbean sea from remote sensing and local data. J. Mar. Sci. Eng. 6(2): 36. https://doi.org/10.3390/jmse6020036
 
- 
+
 
 ## 2017
 

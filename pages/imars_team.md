@@ -1,3 +1,7 @@
+---
+layout: page
+title: IMaRS Team
+---
 
   <!-- these are generated from the members collection -->
 # Staff

@@ -1,3 +1,8 @@
+---
+layout: cariaco
+title: CARIACO Program Participants
+---
+
 # Program Participants
 ## Fundación La Salle de Ciencias Naturales, Estación de Investigaciones Marinas de Margarita,
 Isla de Margarita, Venezuela

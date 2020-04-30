@@ -1,3 +1,8 @@
+---
+layout: page
+title: International Ocean Institute - USA
+---
+
 # International Ocean Institute - USA
 
 The International Ocean Institute -USA, housed at the University of South Florida College of Marine Science, is the only IOI center in the United States. IOI-USA Director Frank Muller Karger and Executive Director CJ Reynolds lead programs that are directly aligned to the IOI mission of sustainable ocean governance, international collaboration and capacity building to support decision making. The IOI-USA also implements initiatives aligned to the international theme: Women, Youth and the Sea. Some of the recent initiatives include:

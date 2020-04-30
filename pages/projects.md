@@ -1,3 +1,8 @@
+---
+layout: page
+title: IMaRS Projects
+---
+
 * [Cariaco](/pages/cariaco)
 * CRW-DSS
 * [Coastal Cities Summit](/pages/coastal-cities-summit)
