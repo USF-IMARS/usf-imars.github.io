@@ -4,8 +4,7 @@ title: CARIACO Program Participants
 ---
 
 # Program Participants
-## Fundación La Salle de Ciencias Naturales, Estación de Investigaciones Marinas de Margarita,
-Isla de Margarita, Venezuela
+## Fundación La Salle de Ciencias Naturales, Estación de Investigaciones Marinas de Margarita, Isla de Margarita, Venezuela
 
 ![edimar logo](edimar_logo.png#left)
 Fundación La Salle de Ciencias Naturales is a non-profit organization dedicated to educate technicians, develop scientific research related with the social and natural sciences and to provide communities with the necessary tools for sustainable development. EDIMAR (Estación de Investigaciones Marinas de Margarita, Venezuela) was established in 1958 for fisheries research and resource evaluation, but soon it expanded to explore all branches of oceanography: physical, chemical, geological and biological. EDIMAR now draws on the expertise of a group of researchers specialized in the different branches of oceanography, and has several assets, such as the R/V Hermano. Ginés, used in oceanographic research, and the Paraguachoa, a fisheries vessel used by the fisheries students in their training.
