@@ -8,7 +8,7 @@
 * [Cariaco at BCO-DMO](http://osprey.bcodmo.org/project.cfm?flag=viewd&id=12)
 * [Publications](/pages/cariaco/publications)
 * Ocean Time Series Methods
-    * Bottle Cast Methods
+    * [Bottle Cast Methods](/pages/cariaco/bottle-cast-methods)
     * Biochemistry & Microbiology Methods
     * CARIACO Methods Manual
 
