@@ -3,7 +3,7 @@
 * [Study Area](/pages/cariaco/study_area)
 * [Field Program](/pages/cariaco/field_program)
 * [Seasonal Hydrography, Productivity, and Settling Particulate Carbon Flux](/pages/cariaco/seasonal_implications)
-* Implications for Estimates of Flux
+* [Implications for Estimates of Flux](/pages/cariaco/implications-for-estimates-of-flux)
 * ~~Cariaco en Español~~
 * [Cariaco at BCO-DMO](http://osprey.bcodmo.org/project.cfm?flag=viewd&id=12)
 * Publications
