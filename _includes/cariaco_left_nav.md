@@ -9,8 +9,8 @@
 * [Publications](/pages/cariaco/publications)
 * Ocean Time Series Methods
     * [Bottle Cast Methods](/pages/cariaco/bottle-cast-methods)
-    * [Biochemistry & Microbiology Methods](biochemistry-and-microbiology-methods)
-    * CARIACO Methods Manual
+    * [Biochemistry & Microbiology Methods](/pages/cariaco/biochemistry-and-microbiology-methods)
+    * [CARIACO Methods Manual pdf](/pages/cariaco/CARIACO_Methods_Manual_v2.pdf)
 
 * **Ocean Time Series Data**
     * TODO
