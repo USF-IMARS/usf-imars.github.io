@@ -6,7 +6,7 @@
 * [Implications for Estimates of Flux](/pages/cariaco/implications-for-estimates-of-flux)
 * ~~Cariaco en Español~~
 * [Cariaco at BCO-DMO](http://osprey.bcodmo.org/project.cfm?flag=viewd&id=12)
-* Publications
+* [Publications](/pages/cariaco/publications)
 * Ocean Time Series Methods
     * Bottle Cast Methods
     * Biochemistry & Microbiology Methods
