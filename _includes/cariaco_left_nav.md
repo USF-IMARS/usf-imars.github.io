@@ -15,6 +15,8 @@
 * **Ocean Time Series Data**
     * TODO
 * Photo Journal
+    * [Instruments](/pages/cariaco/photos/instruments)
+    * [Science](/pages/cariaco/photos/science)
 * [Facebook Page](http://www.facebook.com/pages/Proyecto-Cariaco/151819241596140)
 * [CARIACO Cruise Calendar](https://www.google.com/calendar/embed?src=proyectocariaco@gmail.com&ctz=America/New_York)
 * [Legacy Cariaco Section](http://imars.marine.usf.edu/CAR-legacy)
