@@ -9,17 +9,23 @@ title: IMaRS Team
 {% for member in site.staff %}
     <li><a href="{{member.url}}">{{member.title}}</a></li>
 {% endfor %}
+
 -------------------------------------------------
+
 # Students
 {% for member in site.students %}
     <li><a href="{{member.url}}">{{member.title}}</a></li>
 {% endfor %}
+
 ------------------------------------------------
+
 # Alumni
 {% for member in site.alumni %}
     <li><a href="{{member.url}}">{{member.title}}</a></li>
 {% endfor %}
+
 ------------------------------------------------
+
 # Others
 {% for member in site.other_members %}
     <li><a href="{{member.url}}">{{member.title}}</a></li>
