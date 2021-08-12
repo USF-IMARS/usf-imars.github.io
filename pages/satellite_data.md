@@ -9,9 +9,7 @@ title: IMaRS Satellite Data
     - [FK NMS Monitoring](http://35.211.75.134:3000/)
     - [FWC Coral Disease](http://35.208.211.184:3000/)
 
-<!--
-* [ERDDAP](http://imars-physalis.marine.usf.edu:8080/erddap/info/index.html?page=1&itemsPerPage=1000)
--->
+* [IMaRS ERDDAP Server](http://131.247.136.200:8080/erddap)
 
 * SeaWiFS
     - [Amazon](http://imars.usf.edu/products/pass/seawifs/amaz/years)
