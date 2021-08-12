@@ -3,9 +3,11 @@ layout: page
 title: Frank E. Muller-Karger
 ---
 
-# Director
+# IMaRS Director
 
-## Positions: 
+![photo](./fmk.jpg)
+
+## Positions:
 - 2000 - present: Full Professor. Tenured. University of South Florida Employer: University of South Florida 140 7th Ave. S., St. Petersburg, FL 33701
 - 2007 - 2009: Dean, School for Marine Science and Technology, Univ. Massachusetts Dartmouth Full Professor. Tenured. Univ. Massachusetts Dartmouth Employer: University of Massachusetts Dartmouth 706 South Rodney French Boulevard New Bedford, MA
 - 2003 - 2005: College of Marine Science Dean’s Advisory Council/Biological Oceanography
@@ -17,7 +19,7 @@ title: Frank E. Muller-Karger
 - 2004: Gulf Guardian Award (EPA Gulf of Mexico Program)
 - 2003: University of South Florida President’s Award for Faculty Excellence
 
-## Education: 
+## Education:
 - 1974: Colegio “Humboldt”, Caracas, Venezuela.
 - 1974: Universidad Simón Bolívar, Caracas, Venezuela. Chemical Engineering. (1976, transferred to Florida Institute of Technology).
 - 1979: Bachelor in Biological Oceanography. Florida Institute of Technology. Melbourne, FL.
@@ -25,7 +27,7 @@ title: Frank E. Muller-Karger
 - 1988: Ph.D. in Marine and Estuarine Sciences. University of Maryland, Center for Environmental and Estuarine Studies (UMCEES). College Park, MD and Horn Point Environmental Laboratories, Cambridge, MD.
 - 2001: Master of Science in Management. University of South Florida. College of Business Administration. Tampa, FL. Organizational design, leadership, human resources and modern management principles and techniques.
 
-## Research Interests: 
+## Research Interests:
 
 Interdisciplinary Earth science and Earth observation,
 
@@ -37,5 +39,4 @@ Science education and strategic planning for formal/informal public education,
 
 Integration of science, management and education,
 
-Ocean Policy 
-
+Ocean Policy
