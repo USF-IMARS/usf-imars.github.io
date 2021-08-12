@@ -6,7 +6,7 @@ title: IMaRS Projects
 * [Cariaco](/pages/projects/cariaco)
 * [CRW-DSS](/pages/projects/crw-dss)
 * [Preventing Marine Debris](/pages/projects/preventing-marine-debris)
-* [Coastal Cities Summit](/pages/coastal-cities-summit)
+* [Coastal Cities Summit](/pages/projects/coastal-cities-summit)
 * Millennium Corals
 * Oceanic Atlas
 * UAS

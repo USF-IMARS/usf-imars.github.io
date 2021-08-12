@@ -8,7 +8,7 @@ title: International Ocean Institute - USA
 The International Ocean Institute -USA, housed at the University of South Florida College of Marine Science, is the only IOI center in the United States. IOI-USA Director Frank Muller Karger and Executive Director CJ Reynolds lead programs that are directly aligned to the IOI mission of sustainable ocean governance, international collaboration and capacity building to support decision making. The IOI-USA also implements initiatives aligned to the international theme: Women, Youth and the Sea. Some of the recent initiatives include:
 
 **Supporting Coastal Cities**: In 2008 and 2012, IOI-USA in collaboration with the City of St. Petersburg and the University of South Florida co-hosted multi-day conferences to address a range of topics from climate change risks to urban coastal ecosystem management in the context of tourism and economic development.
-Read more about [2012 Coastal Cities Summit](/pages/coastal-cities-summit).
+Read more about [2012 Coastal Cities Summit](/pages/projects/coastal-cities-summit).
 
 **Supporting International Research**: The IOI-USA office has a strong commitment to hosting early career researchers. Since 2012, young researchers from range of countries, such as Eqypt, Fiji, Nigeria and Venezuela have contributed knowledge of their country, while living and working in St. Petersburg. The scientists, supported by their government agencies, USAID or private foundations, work alongside Muller Karger and his post-doctoral researchers to increase their expertise to use satellite remote sensing to assess ocean health, water quality in support of better decision making.
 
