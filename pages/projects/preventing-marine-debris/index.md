@@ -21,9 +21,10 @@ Working together, the partners created a series of new education and research pr
 * **Science Festivals**: The 4Cs partners developed new materials and activities for the 2014 and 2015 St. Petersburg Science Festivals, which attracted more than 15,000 people each year.  The activities leveraged the Current Collections sculpture, which was located in the festival space. The USF College of Education and College of Marine Science,  Tampa Bay Watch, Keep Pinellas Beautiful and the City of St. Pete storm water department each created new educational activities for the middle school classes that attended on Friday, before the public day of the Science Festival.
 
 ## Turning Trash into Visual Treasure
-To create awareness and spark dialogue about the connection between litter and marine debris, artists created a massive sculpture, which represents an ocean vortex. Inside the sculpture, viewers experience swirling currents created from reclaimed plastic collected by volunteers from community and coastal cleanups. Children in St. Petersburg and Atlanta helped make the colorful panels embedded in the plastic membrane. The Current Collections sculpture, created by Embodied Energy Studio LLC, is in Poynter Park across from the Poynter Institute at 801 3rd Street South in St. Petersburg, FL.
+To create awareness and spark dialogue about the connection between litter and marine debris, artists created a massive sculpture, which represents an ocean vortex. Inside the sculpture, viewers experience swirling currents created from reclaimed plastic collected by volunteers from community and coastal cleanups. Children in St. Petersburg and Atlanta helped make the colorful panels embedded in the plastic membrane.
+The [Current Collections sculpture](http://www.seatheunseen.com/), created by Embodied Energy Studio LLC, is in Poynter Park across from the Poynter Institute at 801 3rd Street South in St. Petersburg, FL.
 
-***Installing the Sculpture.*** *Tom Cawthon of the Poynter Institute generously filmed this video which shows the key steps in the five-day onsite construction process of the Current Collections sculpture.*
+***Installing the Sculpture.*** *Tom Cawthon of the Poynter Institute generously filmed [this video](https://www.youtube.com/watch?v=lECoVx0mNlU) which shows the key steps in the five-day onsite construction process of the Current Collections sculpture.*
 
 ![clean community outreach](./clean_comm_img2.jpg)
 
