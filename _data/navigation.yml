@@ -1,24 +1,19 @@
 
-- title: Home
-  url: /
-- title: Publications
-  url: /pages/publications
-- title: Projects
-  url: /pages/projects
+- title: About
+  url: /about.html
+- title: Team
+  url: /team.html
+- title: Contact
+  url: /contact.html
+- title: Store
+  url: /store.html
+- title: Support
+  url: /support.html
   sublinks:
-    - title: Cariaco
-      url: /pages/cariaco
-    - title: Coastal Cities Summit
-      url: /pages/coastal-cities-summit
-# * CRW-DSS
-# * Millennium Corals
-# * Oceanic Atlas
-# * UAS
-# * Education
-# * MBON
-# * [International Ocean Institute - USA](/pages/international_ocean_institute_usa)
-
-- title: Satellite Data
-  url: /pages/satellite_data
-- title: IMaRS Team
-  url: /pages/imars_team
+    - title: FAQ
+      url: /faq.html
+    - title: Documentation
+      url: /documentation.html
+    - title: separator
+    - title: Customer Support
+      url: /customer-support.html
