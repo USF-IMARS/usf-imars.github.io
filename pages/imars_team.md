@@ -3,21 +3,19 @@ layout: page
 title: IMaRS Team
 ---
 
-  <!-- these are generated from the members collection -->
-{% capture my_markdown_output %}
-    # Staff
-    {% for member in site.staff %}
-        * [{{member.title}}]({{member.url}})
-    {% endfor %}
-    -------------------------------------------------
-    # Students
-    {% for member in site.students %}
-        [{{member.title}}]({{member.url}})
-    {% endfor %}
-    ------------------------------------------------
-    # Alumni
-    {% for member in site.alumni %}
-            [{{member.title}}]({{ member.url }})
-    {% endfor %}
-{% endcapture %}
-{{ my_markdown_output | markdownify }}
+<!-- these are generated from the members collection -->
+# Staff
+<ul>
+{% for member in site.staff %}
+    <li><a href="{{member.url}}">{{member.title}}</a></li>
+{% endfor %}
+-------------------------------------------------
+# Students
+{% for member in site.students %}
+    <li><a href="{{member.url}}">{{member.title}}</a></li>
+{% endfor %}
+------------------------------------------------
+# Alumni
+{% for member in site.alumni %}
+    <li><a href="{{member.url}}">{{member.title}}</a></li>
+{% endfor %}
