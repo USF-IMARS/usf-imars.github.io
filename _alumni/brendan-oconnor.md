@@ -3,9 +3,8 @@ layout: page
 title: Brendan O'Connor
 ---
 
+IMaRS MS Alumni
 
-## Current Position:
-MS Alumni
 ## Positions:
 Project Manager - Lagan Valley Regional Park (2005 - 2010)
 Environmental Information Officer (2004 - 2005)

@@ -19,3 +19,6 @@ collections:
     students:
         output: true
         permalink: /:collection/:name
+    other_members:
+        output: true
+        permalink: /:collection/:name
