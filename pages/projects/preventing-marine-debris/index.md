@@ -30,4 +30,4 @@ The [Current Collections sculpture](http://www.seatheunseen.com/), created by Em
 
 **Funded by a 2014 NOAA Marine Debris Prevention, Education and Outreach Program Cooperative Agreement Grant**
 
-![supporting organizations](./CCCC_Spon_logos.jpg)
+![supporting organizations](./CCCC_spon_logos.jpg)
