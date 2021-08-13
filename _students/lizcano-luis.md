@@ -24,7 +24,7 @@ I am PhD student at the College of Marine Science, USF, with experience in marin
 * Remote Sensing
 * Biological Oceanography
 
-## Publications
+## Publications:
 
 * [2019. Lizcano-Sandoval, L.D., Marulanda-Gómez, A., López-Victoria, M., Rodríguez-Ramírez, A. Climate change and Atlantic Multidecadal Oscillation as drivers of recent declines in coral growth rates in the Southwestern Caribbean. Frontiers in Marine Science 6: 38.](https://doi.org/10.3389/fmars.2019.00038)
 * [2018. Lizcano-Sandoval, L.D., Londoño-Cruz, E., Zapata, F.A. Growth and survival of Pocillopora damicornis (Scleractinia: Pocilloporidae) coral fragments and their potential for coral reef restoration in the Tropical Eastern Pacific. Marine Biology Research 14(8): 887-897.](https://doi.org/10.1080/17451000.2018.1528011)
