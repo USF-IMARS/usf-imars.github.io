@@ -17,10 +17,13 @@ title: Cara Estes
 
 ## Positions
 
-2018      		Oceanography Camp for Girls
+2018      	Oceanography Camp for Girls
+
 2016-2017   	AmeriCorps Environmental Steward
-2015		      NOAA-Reef Fish Survey Team Member
-2014      		NASA DEVELOP Program –Research Associate
+
+2015	        NOAA-Reef Fish Survey Team Member
+
+2014            NASA DEVELOP Program –Research Associate
 
 
 ## Professional Interests and Expertise
