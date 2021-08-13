@@ -29,7 +29,10 @@ title: Cara Estes
 ## Professional Interests and Expertise
 
 Coral Reef and Reef Fish Biodiversity 
+
 Satellite oceanography and remote sensing
+
 Science Communication and outreach
+
 Ocean Policy
 
