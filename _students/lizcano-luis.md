@@ -10,7 +10,7 @@ title: Luis Lizcano-Sandoval
 
 ## About me:
 
-I am PhD student at the College of Marine Science, USF, with experience in marine ecology, oceanography and remote sensing. My current research is focused on detecting and quantifying changes in seagrass cover in Florida, Gulf of Mexico and the Caribbean Sea, using satellite imagery from 1990 to present. I have done research on marine ecology, coral reef ecology, coral reef restoration, and coral sclechronology while back in Mexico and my home country Colombia. I support open-source science, like to use non comercial softwares and share data as possible to make science reproducible and accessible, specially in developing countries. I speak Spanish and English.
+I am PhD student at the College of Marine Science, USF, with experience in marine ecology, oceanography and remote sensing. My current research is focused on detecting and quantifying changes in seagrass cover in Florida, Gulf of Mexico and the Caribbean Sea, using satellite imagery from 1990 to present. I have done research on marine ecology, coral reef ecology, coral reef restoration, and coral sclechronology a while back in Mexico and my home country Colombia. I support open-source science, like to use non comercial softwares and share data as possible to make science reproducible and accessible, specially in developing countries. I speak Spanish and English.
 
 ## Education:
 
