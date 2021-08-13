@@ -49,6 +49,6 @@ I am PhD student at the College of Marine Science, USF, with experience in marin
 
 ## More Information:
 
-* [ReserchGate](https://www.researchgate.net/profile/Luis-Lizcano-Sandoval)
+* [ResearchGate](https://www.researchgate.net/profile/Luis-Lizcano-Sandoval)
 * [Google Scholar](https://scholar.google.com/citations?user=tcpYXy4AAAAJ&hl)
 * Email: luislizcanos@usf.edu
