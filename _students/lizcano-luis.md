@@ -9,9 +9,9 @@ title: Luis Lizcano-Sandoval
 **PhD Student**
 
 ## Education:
-M.Sc. Marine Science and Limnology, Universidad Nacional Autonoma de Mexico (Puerto Morelos, Mexico) 2017
 
-B.A. Biology, Universidad del Valle (Cali, Colombia) 2013
+* M.Sc. Marine Science and Limnology, Universidad Nacional Autonoma de Mexico (Puerto Morelos, Mexico) 2017
+* B.A. Biology, Universidad del Valle (Cali, Colombia) 2013
 
 ## Research Interests:
 
