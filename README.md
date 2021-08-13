@@ -1,14 +1,17 @@
 # USF IMaRS Website Redesign
 
-I am toying with the idea of porting our website out of drupal and into jekyll.
+I am porting the IMaRS website out of drupal and into jekyll.
 Though I have tried porting over with automated tools with no luck,
-I think that the Wall-E theme is a good starting point that might allow me to
+starting from the jekyll Wall-E theme will allow me to
 port things over with less effort than it will take to maintain an aging, undocumented drupal site.
 
 --------------------------------------------------------------------
 
-## Editing Workflow
-This is a quick rundown of how to modify a page.
+To get started working with this website, I suggest you create your user page using the guide in [/documentation/your_first_edit.md](https://github.com/USF-IMARS/usf-imars.github.io/blob/master/documentation/your_first_edit.md).
+For more info, check out the other files in the [/documentation/](https://github.com/USF-IMARS/usf-imars.github.io/blob/master/documentation/) folder.
+
+## Editing Workflow Quickstart
+Too busy to read through `/documntation/`? This is a quick rundown of how to modify a page.
 1. navigate to the page on github. For example: https://github.com/USF-IMARS/usf-imars.github.io/blob/master/coastal-cities-summit.md
 2. click the pencil icon to edit the page
 3. modify the markdown (or html)
@@ -16,7 +19,7 @@ This is a quick rundown of how to modify a page.
 5. describe & commit your changes using the form at the bottom
 6. done! your changes will automatically be applied to the test website at https://usf-imars.github.io/
 
-NOTE: new to markdown or want a more feature-full editor? You can also edit these pages using https://prose.io or https://stackedit.io
+NOTE: new to markdown or want a more feature-full WYSiWYG-like editor? You can also edit these pages using https://prose.io or https://stackedit.io.
 
 ## Justification
 Jekyll allows users to build pages using [markdown](https://en.wikipedia.org/wiki/Markdown), rather than using the drupal interface.
@@ -39,7 +42,7 @@ Drupal uses a "What You See Is What You Get" (WYSIWYG) html editor to produce pa
 --------------------------------------------------------------------
 
 ## Additional info
-Additional documentation can be found in the `documentation` directory.
+Additional documentation can be found in the `/documentation/` directory.
 These docs include:
 
 * documentation from the wall-e jekyll theme
