@@ -3,7 +3,8 @@ layout: page
 title: Luis Lizcano-Sandoval
 ---
 
-![photo](./photo_luis.jpg)
+<img src="https://raw.github.com/USF-IMARS/usf-imars.github.io/master/_students/photo_luis.jpg" width="120">
+
 
 **PhD Student**
 
