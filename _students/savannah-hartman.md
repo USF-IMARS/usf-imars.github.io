@@ -8,10 +8,10 @@ title: Savannah Hartman
 * Graduate Research Assistant, University of South Florida 2017 - Present
 * Lab Tech Assistant, University of Virginia 2014 - 2017
 
-## Education:
+## Education
 B.A. Dual Major Biology and Anthropology, University of Virginia 2017
 
-## Research Interests:
+## Research Interests
 
 * Paleoceanography
 * Biological Oceanography
