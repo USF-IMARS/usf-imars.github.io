@@ -16,5 +16,6 @@ B.A. Biology, Universidad del Valle (Cali, Colombia) 2013
 ## Research Interests:
 
 * Marine Ecology
+* Coral Reefs and Seagrass Ecology
 * Climate Change
 * Remote Sensing
