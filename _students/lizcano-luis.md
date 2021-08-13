@@ -3,7 +3,7 @@ layout: page
 title: Luis Lizcano-Sandoval
 ---
 
-![photo](./luis_photo.jpg)
+![photo](./photo_luis.jpg)
 
 **PhD Student**
 
