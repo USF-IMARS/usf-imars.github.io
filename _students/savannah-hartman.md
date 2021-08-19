@@ -26,7 +26,7 @@ Teaching Assistant, College of Marine Science’s Ocean Policy                  
 * Fellow at the Oceanography Camp for Girls (OCG)                                 - Spring 2020 - Spring 2021
 * Co-organizer for Capacity Development Town Hall at Ocean Sciences Meeting       - February 2020  
 * Co-leader/organizer for Capacity Development Breakout Session [Ocean Obs’19](https://www.usf.edu/marine-science/news/2019/ocean-obs-19-decadal-conference-opens-in-honolulu.aspx)    - September 2019
-* Science Mentor at the [Oceanography Camp for Girls](https://www.usf.edu/marine-science/news/2019/going-out-on-a-limb-for-mangroves.aspx) (OCG)                     -   June 2019
+* [Science Mentor](https://www.usf.edu/marine-science/news/2019/going-out-on-a-limb-for-mangroves.aspx) at the Oceanography Camp for Girls                     -   June 2019
 * Science Judge at the Spoonbill Ocean Sciences Bowl 	                           -  February 2019
 * Student Advocate in Washington, D.C. for Save Our Seas Act 2017 	              - June 2018  
 * Time Keeper at the Spoonbill Ocean Sciences Bowl 	                            -   February 2018  
