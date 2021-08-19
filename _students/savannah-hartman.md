@@ -6,8 +6,8 @@ title: Savannah Hartman
 **PhD Candidate**
 
 ## Education
-Ph.D. Biological Oceanography, University of South Florida                         Expected graduation Fall 2022
-B.A. Dual Major Biology and Anthropology, University of Virginia                   May 2017
+* Ph.D. Biological Oceanography, University of South Florida                         Expected graduation Fall 2022
+* B.A. Dual Major Biology and Anthropology, University of Virginia                   May 2017
 
 ## Teaching Experience
 Teaching Assistant, College of Marine Science’s Ocean Policy                       Spring 2020
