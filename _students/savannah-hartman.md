@@ -36,6 +36,7 @@ Teaching Assistant, College of Marine Science’s Ocean Policy                  
 ## Certificates:
 * NASA ARSET Species Distribution Modelling Certificate                          -  Summer 2021
 * University of South Florida’s Graduate Professional Development Certificate     - Spring 2021
+* São Paulo School of Advanced Science on Ocean Interdisciplinary Research and Governance                                         - Fall 2018
 
 ## Honors, Awards, & Funding:
 * Oceanographic Camp for Girls Fellowship                      -     Spring 2020 - Spring 2021
