@@ -5,7 +5,7 @@ title: Savannah Hartman
 
 ## About me:
 
-I am a Ph.D. candidate at the College of Marine Science, USF, with experience in seabird marine ecology and biodiversity, oceanography, and remote sensing. My current research focuses on identifying seabird species found along the coastline of North America using the open-access database [OBIS](https://obis.org/), over the late 20th and early 21st century. Additionally, I am interested in species distribution modelling. I am very interested and involved in the scientific outreach for my community, and through these experiences I hope to foster a greater understanding of how the ocean benefits society. 
+I am a Ph.D. candidate at the College of Marine Science, USF, with experience in seabird marine ecology and biodiversity, oceanography, and remote sensing. My current research focuses on identifying seabird species found along the coastline of North America using the open-access database [OBIS](https://obis.org/), over the late 20th and early 21st century. Additionally, I am interested in species distribution modelling. I am involved in the scientific outreach for my community, and through these experiences I hope to foster a greater understanding of how the ocean benefits society. 
 
 ## Research Interests:
 * Biological Oceanography
