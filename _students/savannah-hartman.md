@@ -2,6 +2,7 @@
 layout: page
 title: Savannah Hartman
 ---
+<p align="center"><img src="https://raw.github.com/USF-IMARS/usf-imars.github.io/master/_students/photo_luis.jpg" width="150"></p>
 
 ## About me:
 
