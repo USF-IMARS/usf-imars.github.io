@@ -12,7 +12,7 @@ I am a Ph.D. candidate at the College of Marine Science, USF, with experience in
 * Climate Change
 * Biodiversity
 * Ocean Policy
-* Scientific Communication and Outreach (Social media outreach through Instagram, @savvy_scientist)
+* Scientific Communication and Outreach (Social media outreach through [Instagram](https://www.instagram.com/savvy_scientist/)
 
 ## Education:
 * Ph.D. Biological Oceanography, University of South Florida                       - Expected graduation Fall 2022
