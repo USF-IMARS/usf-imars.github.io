@@ -13,19 +13,28 @@ https://github.com/jekylltools/jekyll-ideal-image-slider-include
     <div class="one column row">
         <img class="centered" src="/assets/img/team.jpg">
     </div>
+    <!---
     <div class="three wide column">
         -
     </div>
-    <div class="ten wide column">
+    -->
+    <div class="thirteen wide column">
         <p>
-            !!! NOTE: The IMaRS website is being rebuilt. If you can't find what you are looking for on this new site please also check our older website at [reef01.marine.usf.edu](http://reef01.marine.usf.edu/).
-            Please open an "issue" with any technical feedback/questions/requests on [github/USF-IMARS/usf-imars.github.io/issues](https://github.com/USF-IMARS/usf-imars.github.io/issues) or email imarsroot@marine.usf.edu.  
+!!! NOTE: The IMaRS website is being rebuilt. 
         </p>
         <p>
-The Institute for Marine Remote Sensing of the College of Marine Science is located in the Knight Oceanographic Research Center (KORC) building at the University of South Florida (USF) in St. Petersburg, Florida. Our research activities focus on the analysis of digital data obtained by satellite and airborne sensors, and on the development of applications of these data at local, regional, and global scales.
+If you can't find what you are looking for on this new site please also check our older website at [reef01.marine.usf.edu](http://reef01.marine.usf.edu/).
+Please open an "issue" with any technical feedback/questions/requests on [github/USF-IMARS/usf-imars.github.io/issues](https://github.com/USF-IMARS/usf-imars.github.io/issues) or email imarsroot@marine.usf.edu.  
         </p>
         <p>
-Our main objective is to provide resource managers and other key decision makers with information and tools that enable a better understanding of historical and current changes occurring in the world's oceans on a large spatial and temporal scale. In situ optical and biological data are collected for ground truthing and to relate the apparent and inherent optical properties of water constituents with the remote sensors' signal. We specialize in coastal processes of highly variable regions like the Gulf of Mexico, the Caribbean Sea and Cuba using instruments such as AVHRR, CZCS, SeaWiFS, MODIS, and Landsat. We use other sensors such as altimeters and scatterometers to examine the physical environment in the adjacent deep ocean.
+The Institute for Marine Remote Sensing of the College of Marine Science is located in the Knight Oceanographic Research Center (KORC) building at the University of South Florida (USF) in St. Petersburg, Florida. 
+Our research activities focus on the analysis of digital data obtained by satellite and airborne sensors, and on the development of applications of these data at local, regional, and global scales.
+        </p>
+        <p>
+Our main objective is to provide resource managers and other key decision makers with information and tools that enable a better understanding of historical and current changes occurring in the world's oceans on a large spatial and temporal scale. 
+In situ optical and biological data are collected for ground truthing and to relate the apparent and inherent optical properties of water constituents with the remote sensors' signal. 
+We specialize in coastal processes of highly variable regions like the Gulf of Mexico, the Caribbean Sea and Cuba using instruments such as AVHRR, CZCS, SeaWiFS, MODIS, and Landsat. 
+We use other sensors such as altimeters and scatterometers to examine the physical environment in the adjacent deep ocean.
         <p>
 The IMARS team of graduate students and post-doctoral scientists are actively engaged in a variety of research projects which are contributing to new processes and creating new data tools.
 Check out two of our current projects: the
