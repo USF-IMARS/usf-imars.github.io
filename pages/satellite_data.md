@@ -5,9 +5,9 @@ title: IMaRS Satellite Data
 
 # Satellite Data
 *  Early-Alert Dashboards
-    - [FGB NMS Monitoring]( http://35.209.104.85:3000/ )
-    - [FK NMS Monitoring](http://35.211.75.134:3000/)
-    - [FWC Coral Disease](http://35.208.211.184:3000/)
+    - [FGB NMS Monitoring](fgbnms-dashboard.marine.usf.edu:3000)
+    - [FK NMS Monitoring](fknms-dashboard.marine.usf.edu:3000)
+    - [FWC Coral Disease](fwc-dashboard.marine.usf.edu:3000)
 
 * [IMaRS ERDDAP Server](http://131.247.136.200:8080/erddap)
 
