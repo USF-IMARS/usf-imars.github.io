@@ -2,7 +2,7 @@ web:
   image: nginx
   volumes:
    - ./templates:/etc/nginx/templates  # NOTE: idk what this is for
-   - ./_site:/usr/share/nginx/html
+   - ./_site:/etc/nginx/html/
    - /root/certs_imars_usf_edu:/etc/nginx/certs
    - ./nginx_conf:/etc/nginx/conf.d
   ports:
