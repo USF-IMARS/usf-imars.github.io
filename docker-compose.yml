@@ -18,6 +18,12 @@ services:
       - type: volume
         source: user_homes # ./_public_html
         target: /user_sites  # user sites
+      - type: volume
+        source: fk
+        target: /srv/imars-objets/fk
+      - type: volume
+        source: fgb
+        target: /srv/imars-objects/fgb
 
     ports:
      - "80:80"
@@ -32,3 +38,13 @@ volumes:
       type: "nfs"
       o: "addr=yinmaster,ro,soft,intr,tcp,nfsvers=4,noacl"
       device: ":/yin/homes"
+  fgb:
+    driver_opts:
+      type: "nfs"
+      o: "addr=thing1master,ro,intr,tcp,nfsvers=4,noacl"
+      device: ":/fgb"
+  fk:
+    driver_opts:
+      type: "nfs"
+      o: "addr=thing1master,ro,intr,tcp,nfsvers=4,noacl"
+      device: ":/fk"
