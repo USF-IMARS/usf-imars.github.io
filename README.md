@@ -1,6 +1,6 @@
 # USF IMaRS Website Redesign
 
-The IMaRS website we ported out of drupal and into jekyll, but then we went (back) to WordPress.
+The IMaRS website we ported out of drupal and into jekyll, but then we went (back(ish)) to WordPress.
 
 This repo contains the jekyll version of the site, but the issues section of the repo is used for any issues related to IMaRS web presence - including the wordpress site, this site, and any other sites that *seem* to be part of the IMaRS website.
 
